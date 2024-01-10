@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"io/fs"
 
-	"github.com/willscott/go-nfs"
+	"github.com/ikmak/go-nfs"
 
 	"github.com/go-git/go-billy/v5"
 	"github.com/google/uuid"

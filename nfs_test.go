@@ -8,8 +8,8 @@ import (
 	"sort"
 	"testing"
 
-	nfs "github.com/willscott/go-nfs"
-	"github.com/willscott/go-nfs/helpers"
+	nfs "github.com/ikmak/go-nfs"
+	"github.com/ikmak/go-nfs/helpers"
 
 	"github.com/go-git/go-billy/v5/memfs"
 	nfsc "github.com/willscott/go-nfs-client/nfs"
